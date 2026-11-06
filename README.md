@@ -1,4 +1,4 @@
-# Template.Web
+# Template_Web
 
 Personal template for web applications.
 

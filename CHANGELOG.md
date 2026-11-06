@@ -5,6 +5,10 @@ This file is generated from the commit history -- do not edit it by hand.
 
 ## Unreleased
 
+### Documentation
+
+- Use the template's underscore suffix
+
 ### Build
 
 - Add git-cliff changelog configuration
